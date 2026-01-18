@@ -1,4 +1,4 @@
-# Shopping cart (React TypeScript)
+# Корзина (React TypeScript)
 
 ## Features
 
